@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Why%20not?&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Why%20not?&fontSize=90&fontColor=000000)
 
 
 뭐든지 보이는 건 다 하고 싶은 사람  
