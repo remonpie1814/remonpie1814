@@ -6,17 +6,11 @@
 
 ---
 
-○ 과거
+○ 연력
 - 1996.10　　출생 👶
-- 2015.02　　평택 한광고등학교 졸업
 - 2022.11　　충남대 SW 아카데미 AI반 수료
     - 뉴스 기사 분석 프로젝트 진행 
     [>>>링크](https://github.com/remonpie1814/News_Site_SentimentAnalysis)
-
----
-
-○ 현재  
-- 충남대학교 수학과 재학중 (23년도 졸업예정)
 
 ---
 
@@ -27,18 +21,7 @@
 - 스케줄 관리
 - 뭐든 열심히 배우기 👍
 
----
 
-○ 아직 잘 못 하는 것
-- 정리
-- 외국어
-
----
-
-○ 앞으로 할 것
-- 혼자서 웹 애플리케이션 하나 만들기
-
----
 <!--
 **remonpie1814/remonpie1814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
