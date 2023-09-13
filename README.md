@@ -11,13 +11,16 @@
 - 2022.11　　충남대 SW 아카데미 AI반 수료
     - 뉴스 기사 분석 프로젝트 진행 
     [>>>링크](https://github.com/remonpie1814/News_Site_SentimentAnalysis)
+- 2023.09    자바/코틀린 개발자 양성과정 수료
+    - 1인가구 식품 쇼핑몰 프로젝트 진행
+    [>>>링크](https://github.com/remonpie1814/shoppingmall)
 
 ---
 
 
 ○ 할 수 있는 것
 - 기술🛸  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 - 스케줄 관리
 - 뭐든 열심히 배우기 👍
 
